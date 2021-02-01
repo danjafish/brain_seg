@@ -1,0 +1,6 @@
+torch
+SimpleITK
+nibabel
+numpy
+segmentation_models_pytorch
+albumentations
