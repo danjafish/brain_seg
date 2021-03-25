@@ -1,6 +1,6 @@
 # brain_seg
 
-Test assignment for corementor.ai
+Test assignment for carementor.ai
 
 Author: Daniil Fishman
 
